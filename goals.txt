@@ -1,0 +1,19 @@
+step1 : display player + player can move left/right
+- create project structure (html, css, js)
+
+- class game
+    - start () --> create instance 
+
+- class player
+     - position
+     - size 
+     - moveLeft()
+     - moveRight()
+- class obstacle
+
+- functionality to move player
+
+step2 : obstacles appearing in the UI + obstacles move + detect if there's a collision
+    - its okay if the obstacles appear always at same position
+
+step3 : make game more interesting + fix bugs
